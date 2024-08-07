@@ -1,12 +1,13 @@
-### **Name:** E MOUNIKA
+### **Name:** BS SyedSab Vali
 ### **Company:** CODTECH IT SOLUTIONS
-### **ID:** CT6WDS1199
+### **Intern ID:** CT6CC1052
 ### **Domain:** CLOUD COMPUTING
-### **Duration:** JULY to AUGUST 2024
+### **Duration:** JULY 5th to AUGUST 20th 2024
 ### **Mentor:** Neela Santhosh kumar
 
+
 ## Overview of the Project
-### Project: SETTING UP A CONTINUOUS INTEGRATION/CONTINUOUS DEPLOYMENT (CI/CD) PIPELINE ON AZURE
+### Project: Setting Up A Continuous Integration/Continuous Deployment (CI/CD) Pipeline On AZURE
 **Project Overview**
 
 Setting up a CI/CD pipeline on Azure involves several steps to automate the build, test, and deployment processes for a web application. This guide outlines the process using Azure DevOps and Azure App Service.
@@ -123,7 +124,7 @@ Incorporate additional steps like linting, code quality checks, or integration t
 
 
 ## Conclusion
-Setting up a Continuous Integration/Continuous Deployment (CI/CD) pipeline on Azure using Azure DevOps and Azure App Service significantly streamlines the process of developing, testing, and deploying web applications. By automating these steps, you can achieve faster release cycles, higher code quality, and greater confidence in your deployments.
+you can establish a robust CI/CD pipeline that automates the development, testing, and deployment of your web applications. This setup leverages the powerful integration capabilities of GitHub for source control and continuous integration, coupled with the scalable deployment options provided by AWS Elastic Beanstalk. As a result, you can achieve faster release cycles, improved code quality, and increased confidence in your deployments, ensuring that your applications are always running smoothly and efficiently.
 
 
 
